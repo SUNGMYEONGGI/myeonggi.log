@@ -6,7 +6,7 @@ const siteMetadata = {
   description: '인공지능을 공부하고 기록합니다.',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://myeonggi.log',
+  siteUrl: 'https://myeonggi-log.vercel.app',
   siteRepo: 'https://github.com/SUNGMYEONGGI/myeonggi.log',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
